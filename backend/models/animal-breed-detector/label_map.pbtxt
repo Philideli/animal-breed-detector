@@ -1,0 +1,148 @@
+item {
+	name:'Cat, Abyssinian'
+	id:1
+}
+item {
+	name:'Dog, American bulldog'
+	id:2
+}
+item {
+	name:'Dog, American pit bull terrier'
+	id:3
+}
+item {
+	name:'Dog, Basset hound'
+	id:4
+}
+item {
+	name:'Dog, Beagle'
+	id:5
+}
+item {
+	name:'Cat, Bengal'
+	id:6
+}
+item {
+	name:'Cat, Birman'
+	id:7
+}
+item {
+	name:'Cat, Bombay'
+	id:8
+}
+item {
+	name:'Dog, Boxer'
+	id:9
+}
+item {
+	name:'Cat, British shorthair'
+	id:10
+}
+item {
+	name:'Dog, Chihuahua'
+	id:11
+}
+item {
+	name:'Cat, Egyptian mau'
+	id:12
+}
+item {
+	name:'Dog, English cocker spaniel'
+	id:13
+}
+item {
+	name:'Dog, English setter'
+	id:14
+}
+item {
+	name:'Dog, German shorthaired'
+	id:15
+}
+item {
+	name:'Dog, Great pyrenees'
+	id:16
+}
+item {
+	name:'Dog, Havanese'
+	id:17
+}
+item {
+	name:'Dog, Japanese chin'
+	id:18
+}
+item {
+	name:'Dog, Keeshond'
+	id:19
+}
+item {
+	name:'Dog, Leonberger'
+	id:20
+}
+item {
+	name:'Cat, Maine coon'
+	id:21
+}
+item {
+	name:'Dog, Miniature pinscher'
+	id:22
+}
+item {
+	name:'Dog, Newfoundland'
+	id:23
+}
+item {
+	name:'Cat, Persian'
+	id:24
+}
+item {
+	name:'Dog, Pomeranian'
+	id:25
+}
+item {
+	name:'Dog, Pug'
+	id:26
+}
+item {
+	name:'Cat, Ragdoll'
+	id:27
+}
+item {
+	name:'Cat, Russian blue'
+	id:28
+}
+item {
+	name:'Dog, Saint bernard'
+	id:29
+}
+item {
+	name:'Dog, Samoyed'
+	id:30
+}
+item {
+	name:'Dog, Scottish terrier'
+	id:31
+}
+item {
+	name:'Dog, Shiba inu'
+	id:32
+}
+item {
+	name:'Cat, Siamese'
+	id:33
+}
+item {
+	name:'Cat, Sphynx'
+	id:34
+}
+item {
+	name:'Dog, Staffordshire bull terrier'
+	id:35
+}
+item {
+	name:'Dog, Wheaten terrier'
+	id:36
+}
+item {
+	name:'Dog, Yorkshire terrier'
+	id:37
+}
